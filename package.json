@@ -13,5 +13,6 @@
     "ts"
   ],
   "author": "jerry4718",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "git@github.com:jerry4718/dynamic-decorator.git"
 }
